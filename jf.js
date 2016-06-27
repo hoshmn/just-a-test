@@ -1,6 +1,6 @@
 <script type= "text/javascript">
 
-var dylan="smoochy";
+var dylan="salami";
 console.log(dylan);
 
 </script>
